@@ -1,12 +1,10 @@
 ![Metrics](github-metrics.svg)
 
 ### 👉 Find me on the web
-🌎 https://fayd.me
+🌎 https://afzal.sh
 
-📨 [faisal.sayed502@gmail.com](mailto:faisal.sayed502@gmail.com)
-
-💼 [https://www.linkedin.com](https://www.linkedin.com/in/faisal-sayed-216711152/)
+💼 [https://www.linkedin.com](https://www.linkedin.com/in/afzalsayed96/)
 
 🕊 [faisal_sayed05](https://twitter.com/faisal_sayed05)
 
-![](https://komarev.com/ghpvc/?username=faisalsayed10&color=red&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=afzalsayed96&color=red&style=flat-square&label=Profile+Views)
