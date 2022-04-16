@@ -31,6 +31,7 @@ jobs:
           plugin_achievements_limit: 6
           plugin_tweets: yes
           plugin_tweets_user: afzalsayed96
+          plugin_languages_recent_days: 1080
           
 
           plugin_wakatime: yes
