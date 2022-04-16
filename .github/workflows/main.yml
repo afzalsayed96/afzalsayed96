@@ -30,7 +30,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_limit: 6
           plugin_tweets: yes
-          plugin_tweets_user: faisal_sayed05
+          plugin_tweets_user: afzalsayed96
           
 
           plugin_wakatime: yes
