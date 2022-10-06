@@ -25,6 +25,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: jupyter-notebook
+          plugin_languages_skipped: intel-scene-classification
           plugin_notable: yes
           plugin_achievements: yes
           plugin_achievements_secrets: yes
