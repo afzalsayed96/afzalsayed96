@@ -3,7 +3,7 @@
 ### 👉 Find me on the web
 🌎 https://afzal.sh
 
-💼 [https://www.linkedin.com](https://www.linkedin.com/in/afzalsayed96/)
+💼 [LinkedIn](https://www.linkedin.com/in/afzalsayed96/)
 
 🕊 [afzalsayed96](https://twitter.com/afzalsayed96)
 
