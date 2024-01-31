@@ -1,3 +1,7 @@
+<center>
+  <img src="https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more" alt="Ceasefire. Now. Free. Palestine" />
+</center>
+
 ![Metrics](github-metrics.svg)
 
 ### 👉 Find me on the web
