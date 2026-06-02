@@ -38,43 +38,6 @@ Recently, I’ve been focused on:
 
 ---
 
-## Signature Work
-
-### ViewBuilder — Runtime + Visual Editor Architecture
-
-One of the more complex systems I’ve owned is **ViewBuilder**, a runtime and editor for authoring customer-facing views, replacing a legacy block-based dashboard editor.
-
-The scope covered:
-
-- Schema design
-- Runtime renderer
-- Visual editor
-- Data binding system
-- Action system
-- Modal overlays
-- Design system integration
-- Persistence
-- Dashboard rendering
-- Safe coexistence with the legacy renderer
-
-The architectural approach was layered around:
-
-```text
-schema → primitives → runtime → editor
-```
-
-A key rollout decision was coexistence: new views render through the new system based on a data-shape check, while existing views continue rendering through the old system untouched. This avoided a risky flag-day migration and allowed the system to evolve safely.
-
-Some lessons from that work:
-
-- Build the runtime before the editor
-- Compose before promoting abstractions
-- Revisit inherited architectural assumptions
-- Prefer existing infrastructure over custom orchestration when possible
-- Coexistence often beats migration
-
----
-
 ## Open Source Engineering Highlights
 
 I occasionally contribute to open-source projects in the frontend, developer tooling, and SaaS ecosystem. These are selected examples that show debugging depth, performance thinking, framework reasoning, product UX, and public technical communication.
