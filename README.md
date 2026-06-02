@@ -93,19 +93,22 @@ I occasionally contribute to open-source projects in the frontend, developer too
 ## Maintainer Feedback
 
 > “Quality work! Thanks a lot, much appreciated! LGTM!”  
-> — Remotion maintainer
+> — Jonny Burger ([@JonnyBurger](https://github.com/JonnyBurger)), Remotion
 
 > “Perfect! Thanks a lot!”  
-> — Remotion maintainer
+> — Jonny Burger ([@JonnyBurger](https://github.com/JonnyBurger)), Remotion
 
 > “This is a great feature, really wanted something like this for a while.”  
-> — Evidence.dev maintainer
+> — Archie Wood ([@archiewood](https://github.com/archiewood)), Evidence.dev
 
 > “This looks clear to me. Clearer, in fact. Thanks, @afzalsayed96!”  
-> — Stitches maintainer
+> — Jonathan Neal ([@jonathantneal](https://github.com/jonathantneal)), Stitches
+
+> “LGTM too”  
+> — Pedro Duarte ([@peduarte](https://github.com/peduarte)), Stitches / Radix ecosystem
 
 > “this is great! thanks so much for opening this and helping out <3”  
-> — Netlify maintainer
+> — Lindsay Levine ([@lindsaylevine](https://github.com/lindsaylevine)), Netlify
 
 ---
 
