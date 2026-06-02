@@ -95,8 +95,11 @@ I occasionally contribute to open-source projects in the frontend, developer too
 > “Quality work! Thanks a lot, much appreciated! LGTM!”  
 > — Jonny Burger ([@JonnyBurger](https://github.com/JonnyBurger)), Remotion
 
-> “Perfect! Thanks a lot!”  
-> — Jonny Burger ([@JonnyBurger](https://github.com/JonnyBurger)), Remotion
+> “Wow, amazing find. THANK YOU! This will be awesome to ship.”  
+> — Brian Lovin ([@brianlovin](https://github.com/brianlovin)), Spectrum
+
+> “Awesomeeee!!!!”  
+> — Max Stoiber ([@mxstbr](https://github.com/mxstbr)), Spectrum
 
 > “This is a great feature, really wanted something like this for a while.”  
 > — Archie Wood ([@archiewood](https://github.com/archiewood)), Evidence.dev
